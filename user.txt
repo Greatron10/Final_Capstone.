@@ -1,1 +1,7 @@
 admin;password
+greg;oranges10
+john;mypass10
+janetta;finland08
+jay_rohr;strokes#7
+joshburns;evertonfc#
+junefoster;sefton6
